@@ -1,0 +1,33 @@
+{
+  "author": {
+    "name": "Maxmudjon Payziyev"
+  },
+  "bugs": {
+    "url": "https://github.com/Maxmudjon/homebridge-mihome-outlet/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "miio": "0.15.6"
+  },
+  "deprecated": false,
+  "description": "XiaoMi outlet plugins for HomeBridge(https://github.com/nfarina/homebridge).",
+  "engines": {
+    "homebridge": ">=0.4.1",
+    "node": ">=7.0.0"
+  },
+  "homepage": "https://github.com/Maxmudjon/homebridge-mihome-outlet",
+  "keywords": [
+    "homebridge-plugin",
+    "xiaomi",
+    "mi",
+    "outlet",
+    "plug",
+    "socket"
+  ],
+  "name": "homebridge-mihome-outlet",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxmudjon/homebridge-mihome-outlet.git"
+  },
+  "version": "0.0.42"
+}
